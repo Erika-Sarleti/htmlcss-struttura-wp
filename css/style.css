@@ -21,11 +21,12 @@ main > div{
 
 .container-yellow{
     background-color: #e1d67a;
+    height: 600px;
 }
 
 .container-blue{
     background-color: #0185ff;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 
 .section-header{
@@ -53,4 +54,11 @@ nav{
     height: calc(80% - 40px);
     background-color: #abcfe7;
     margin: 20px 15px;
+}
+
+footer{
+    background-color: #8801fe;
+    width: 80%;
+    margin: 0 auto 20px;
+    height: 70px;
 }
