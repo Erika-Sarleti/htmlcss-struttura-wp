@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    background-color: #e579e6;
+    width: 80%;
+    margin: 0 auto;
+    height: 100px;
+}
+
+main > div{
+    margin: 30px auto 0;
+    height: 400px;
+    width: 80%;
+}
+
+.container-yellow{
+    background-color: #e1d67a;
+}
